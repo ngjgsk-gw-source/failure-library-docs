@@ -5,8 +5,10 @@ iOS アプリ「失敗図書館（Failure Library）」のプライバシーポ�
 
 - プライバシーポリシー（HTML・App Store Connect に登録する URL）
   https://ngjgsk-gw-source.github.io/failure-library-docs/
+- 利用規約（アプリの設定画面から開く URL）
+  https://ngjgsk-gw-source.github.io/failure-library-docs/terms.html
 - 同じ内容の Markdown 版
-  [privacy-policy.md](privacy-policy.md)
+  [privacy-policy.md](privacy-policy.md) / [terms.md](terms.md)
 
 ## 編集するとき
 
